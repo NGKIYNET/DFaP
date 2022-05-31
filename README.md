@@ -2,7 +2,7 @@
 ## Intro
 This is a demo that shows the usage scenarios and effects of DFaP. 
 
-In DFaP.ipynb, we show the implementation of the relevant functions, the parameter settings, backdoor samples filtering and purification effect and dataset filtering and purification effect.
+In [DFaP.ipynb](https://github.com/NGKIYNET/DFaP/blob/main/DFaP.ipynb), we show the implementation of the relevant functions, the parameter settings, backdoor samples filtering and purification effect and dataset filtering and purification effect.
 
 ## Datasets
 As in the paper we used three publicly available datasets. The data can be accessed through the following links：
